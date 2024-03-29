@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "117203870422",
+    "firebase_url": "https://takshashila-50ca7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "takshashila-50ca7",
+    "storage_bucket": "takshashila-50ca7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117203870422:android:803d844fec4cba71ef9f77",
+        "android_client_info": {
+          "package_name": "com.example.takshashila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117203870422-e4prud0n40v4o830kf5m4kk0juqpunou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyPsXypkw-oFJVbdUfuU7EJ1ewK2YVMOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117203870422-e4prud0n40v4o830kf5m4kk0juqpunou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "117203870422-jdq5j0i4973evfficbtd7eakt3ojedp4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.takshashila.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
